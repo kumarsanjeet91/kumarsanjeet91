@@ -58,13 +58,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarsanjeet91&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumarsanjeet91&show_icons=true&theme=radical" alt="GitHub Stats"/>
