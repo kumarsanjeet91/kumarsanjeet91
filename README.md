@@ -13,7 +13,7 @@
 🔒 Exploring **Cybersecurity** to build safer and more robust digital solutions  
 📱 I love building **cross-platform, user-friendly applications**  
 🧩 Currently working on **real-time apps, Chrome extensions, and AI integrations**  
-📫 Reach me at: **kumarsanjeet91@gmail.com**  
+📫 Reach me at: **sanjeetucet@gmail.com**  
 ⚡ Fun fact: *I debug faster with lo-fi beats 🎶*
 
 ---
