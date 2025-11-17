@@ -21,9 +21,8 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/kumarsanjeet91" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kumarsanjeet91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sanjeetucet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/kumarsanjeet91" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
@@ -48,9 +47,7 @@
 <!-- OTHER TOOLS -->
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/></a>
-<a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" width="40" height="40" alt="Blender"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
 
@@ -58,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumarsanjeet91&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
@@ -73,11 +70,11 @@
 
 ---
 
-### 🌱 Currently Exploring
-- 🤖 AI + Full Stack Integrations  
-- 🔐 Cybersecurity & Ethical Hacking  
-- 📱 Real-Time Audio and Screen-Sharing Apps  
-- 🧩 Chrome Extensions with WebRTC & WebSocket  
+###  Currently Exploring
+-  AI + Full Stack Integrations  
+-  Cybersecurity & Ethical Hacking  
+-  Real-Time Audio and Screen-Sharing Apps  
+-  Chrome Extensions with WebRTC & WebSocket  
 
 ---
 
