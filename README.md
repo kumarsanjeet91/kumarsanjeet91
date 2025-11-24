@@ -56,13 +56,13 @@
 ---
 
 ###  GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumarsanjeet91&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanjeet91&theme=radical" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsanjeet91&layout=compact&theme=radical" alt="Top Languages"/>
