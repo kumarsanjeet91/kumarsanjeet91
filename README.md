@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 💻 I'm a passionate **Full Stack Developer** specializing in **Next.js, React Native, and MERN Stack**  
 🔒 Exploring **Cybersecurity** to build safer and more robust digital solutions  
 📱 I love building **cross-platform, user-friendly applications**  
